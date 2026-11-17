@@ -9,8 +9,8 @@ DIMENSIONS = [
     ("tenure", "Account age (months)", "Sunil"),
     ("viewing", "Weekly viewing hours", "Abdullah"),
     ("tickets_band", "Monthly support tickets", "Nelson"),
-    ("charge", "Monthly charge band", "Humaira"),
-    ("SubscriptionType", "Subscription plan", "Humaira"),
+    ("charge", "Monthly charge band", "Umaira"),
+    ("SubscriptionType", "Subscription plan", "Umaira"),
     ("GenrePreference", "Preferred genre", "Suraj"),
 ]
 MIN_GROUP = 300

@@ -1,4 +1,4 @@
-"""Humaira: subscription plans and monthly charges."""
+"""Umaira: subscription plans and monthly charges."""
 
 import streamlit as st
 

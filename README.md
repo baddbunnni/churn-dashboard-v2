@@ -9,7 +9,7 @@ One Streamlit app combining every team member's section. All 243,787 rows are bu
 |---|---|---|---|---|
 | Overview | All | Factor ranking chart; topic cards | | |
 | Content preferences | Suraj | Content-type columns (sorted by rate) | Genre bars (sorted) | **Device pills** filter both. **Click a content-type column** to filter genres (as in his Power BI). Genre × device heatmap |
-| Plans & pricing | Humaira | Plan bars | Charge-band line | **Click a plan bar** to filter Q2. One line per plan below |
+| Plans & pricing | Umaira | Plan bars | Charge-band line | **Click a plan bar** to filter Q2. One line per plan below |
 | Engagement | Abdullah | Viewing-hours line | Downloads bars | **Duration slider** filters everything. **Click a viewing point** to filter downloads and highlight the heatmap row |
 | Account age | Sunil | Age-band bars | Age × plan heatmap | **Engagement toggle** filters Q1 and Q2. **Click an age bar** to highlight that heatmap row. Light vs heavy viewer lines |
 | Customer experience | Nelson | Rating bars | Ticket line | **Click a rating bar** to filter Q2 and highlight the heatmap row |

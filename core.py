@@ -80,7 +80,7 @@ HEAT_SPREAD = 0.15
 TOPICS = {
     "content": dict(owner="Suraj", topic="Content preferences", icon=":material/movie:",
                     key="How does cancellation vary across customers' content preferences?"),
-    "plans": dict(owner="Humaira", topic="Plans & pricing", icon=":material/payments:",
+    "plans": dict(owner="Umaira", topic="Plans & pricing", icon=":material/payments:",
                   key="How are subscription plan and monthly charges associated with cancellation?"),
     "engagement": dict(owner="Abdullah", topic="Engagement", icon=":material/play_circle:",
                        key="Are less engaged customers more likely to cancel?"),
