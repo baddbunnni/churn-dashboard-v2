@@ -1,0 +1,8 @@
+# Dashboard theme. Colours match the chart palette in core.py so the whole page reads as one system:
+# blue = at or below the all-customer cancellation rate, navy = text and headers.
+[theme]
+base = "light"
+primaryColor = "#2F6DB5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6FA"
+textColor = "#14263F"
